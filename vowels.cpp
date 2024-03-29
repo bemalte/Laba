@@ -8,7 +8,7 @@ int main()
     const int N = 12;
     char vowel[N] = { 'A', 'a', 'E', 'e', 'I', 'i', 'O', 'o', 'U', 'u', 'Y', 'y' };
     string str;
-    cout << "Enter the string: " << endl;
+    cout << "Enter the string: " << endl;//Введите строку
     getline(cin, str);
     int kolichestvo = 0;
     for (int i = 0; str[i]; i++)
