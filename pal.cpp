@@ -4,7 +4,7 @@
 using namespace std;
 string palindrome(string S)
 {
-	string P = S;
+	string P = S;//переменная
 	reverse(P.begin(), P.end());
 
 	if (S == P) {
