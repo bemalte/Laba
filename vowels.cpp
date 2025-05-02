@@ -19,6 +19,7 @@ int main()
                 kolichestvo++;
         }
     }
+    //test coment2025
     if (kolichestvo)
         cout << "number of vowels: " << kolichestvo << endl;
     else
