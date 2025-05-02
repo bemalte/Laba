@@ -19,7 +19,11 @@ int main()
                 kolichestvo++;
         }
     }
+<<<<<<< HEAD
     //test coment2025
+=======
+    cout << "test" << endl;//test coment
+>>>>>>> abb
     if (kolichestvo)
         cout << "number of vowels: " << kolichestvo << endl;
     else
